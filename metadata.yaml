@@ -1,15 +1,16 @@
 _repo: Robert-Annys-Poor-Priest-A-Tale-of-the-Great-Uprising_46519
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46519/46519-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46519-h/images/cover.jpg
 creator:
   author:
     agent_name: Meyer, Annie Nathan
     gutenberg_agent_id: '43827'
     url: http://www.gutenberg.org/2009/agents/43827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46519#Robert-Annys-Poor-Priest-A-Tale-of-the-Great-Uprising
 gutenberg_issued: '2014-08-06'
 gutenberg_type: Text
 identifiers:
